@@ -143,7 +143,7 @@ MonoBehaviour:
   m_text: 165
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 648601485efa34f2e8c04457df08ff96, type: 2}
-  m_sharedMaterial: {fileID: 418473072013296075, guid: 648601485efa34f2e8c04457df08ff96, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: dcbed692340084fc7bf570206779fbe2, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -344,7 +344,7 @@ GameObject:
   - component: {fileID: 7795460279584628139}
   - component: {fileID: 4694129002642730070}
   m_Layer: 5
-  m_Name: TextBG
+  m_Name: CurrencyBG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
