@@ -26,14 +26,14 @@ AnimatorState:
   m_MirrorParameter: 
   m_CycleOffsetParameter: 
   m_TimeParameter: 
---- !u!1102 &-4321540729399244873
+--- !u!1102 &-1905479648836566309
 AnimatorState:
   serializedVersion: 6
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Button_Idle
+  m_Name: MapButton_Idle
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
@@ -46,7 +46,7 @@ AnimatorState:
   m_MirrorParameterActive: 0
   m_CycleOffsetParameterActive: 0
   m_TimeParameterActive: 0
-  m_Motion: {fileID: 7400000, guid: 6fd5950034fae460cae1259fc8ca7d71, type: 2}
+  m_Motion: {fileID: 7400000, guid: 03fed4d6f0b3d414b97aa07a5297e516, type: 2}
   m_Tag: 
   m_SpeedParameter: 
   m_MirrorParameter: 
@@ -58,7 +58,7 @@ AnimatorController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Ctrl_BottomBarButton
+  m_Name: Ctrl_MapButton
   serializedVersion: 5
   m_AnimatorParameters: []
   m_AnimatorLayers:
@@ -87,11 +87,11 @@ AnimatorStateMachine:
     m_State: {fileID: -4980423623232308757}
     m_Position: {x: 310, y: 0, z: 0}
   - serializedVersion: 1
-    m_State: {fileID: -4321540729399244873}
-    m_Position: {x: 350, y: 60, z: 0}
-  - serializedVersion: 1
     m_State: {fileID: 4229036939094670180}
     m_Position: {x: 380, y: 130, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -1905479648836566309}
+    m_Position: {x: 360, y: 60, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -101,7 +101,7 @@ AnimatorStateMachine:
   m_EntryPosition: {x: 50, y: 120, z: 0}
   m_ExitPosition: {x: 800, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
-  m_DefaultState: {fileID: -4321540729399244873}
+  m_DefaultState: {fileID: -1905479648836566309}
 --- !u!1102 &4229036939094670180
 AnimatorState:
   serializedVersion: 6
