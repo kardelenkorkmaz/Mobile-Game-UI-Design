@@ -85,13 +85,13 @@ AnimatorStateMachine:
   m_ChildStates:
   - serializedVersion: 1
     m_State: {fileID: -4980423623232308757}
-    m_Position: {x: 200, y: 0, z: 0}
+    m_Position: {x: 310, y: 0, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -4321540729399244873}
-    m_Position: {x: 235, y: 65, z: 0}
+    m_Position: {x: 350, y: 60, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 4229036939094670180}
-    m_Position: {x: 270, y: 130, z: 0}
+    m_Position: {x: 380, y: 130, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
@@ -109,7 +109,7 @@ AnimatorState:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Button_Deselected
+  m_Name: Button_Unselected
   m_Speed: 1
   m_CycleOffset: 0
   m_Transitions: []
