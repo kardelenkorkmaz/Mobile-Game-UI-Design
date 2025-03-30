@@ -1335,11 +1335,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6508778611628111952, guid: 77ebedb3e4f67441387a8d7e38b3c279, type: 3}
       propertyPath: m_text
-      value: Notifications
+      value: Benachrichtigungen
       objectReference: {fileID: 0}
     - target: {fileID: 6508778611628111952, guid: 77ebedb3e4f67441387a8d7e38b3c279, type: 3}
       propertyPath: m_fontSize
-      value: 67.2
+      value: 56.95
       objectReference: {fileID: 0}
     - target: {fileID: 6593475186445597853, guid: 77ebedb3e4f67441387a8d7e38b3c279, type: 3}
       propertyPath: m_Value
@@ -1946,7 +1946,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6508778611628111952, guid: 77ebedb3e4f67441387a8d7e38b3c279, type: 3}
       propertyPath: m_text
-      value: Vibration
+      value: Wibracja
       objectReference: {fileID: 0}
     - target: {fileID: 6508778611628111952, guid: 77ebedb3e4f67441387a8d7e38b3c279, type: 3}
       propertyPath: m_fontSize
