@@ -1835,9 +1835,13 @@ PrefabInstance:
       propertyPath: m_Name
       value: SupportButton
       objectReference: {fileID: 0}
+    - target: {fileID: 4245269333554560581, guid: ded6877dc4a39403aa46ea0fc2b2a2ff, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 2100000, guid: d0076f5b2e62a40c8813038f58d48ddb, type: 2}
     - target: {fileID: 7478263885862468596, guid: ded6877dc4a39403aa46ea0fc2b2a2ff, type: 3}
       propertyPath: m_Name
-      value: SettingsPopup 1
+      value: SettingsPopup
       objectReference: {fileID: 0}
     - target: {fileID: 7519615829358568223, guid: ded6877dc4a39403aa46ea0fc2b2a2ff, type: 3}
       propertyPath: m_text

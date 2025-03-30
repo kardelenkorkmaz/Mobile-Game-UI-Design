@@ -1416,6 +1416,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 4235713369094197385, guid: e70485a7d30f8442bb8e769b3e2407f6, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1036801957}
+    - target: {fileID: 4235713369094197385, guid: e70485a7d30f8442bb8e769b3e2407f6, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Play
+      objectReference: {fileID: 0}
     - target: {fileID: 5164907840703726144, guid: e70485a7d30f8442bb8e769b3e2407f6, type: 3}
       propertyPath: m_AnchorMax.y
       value: 1
